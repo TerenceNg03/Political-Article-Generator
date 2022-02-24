@@ -1,16 +1,19 @@
 # Political-Article-Generator
 AI writer build with GRU
 
-### Train data
-All of the training data is collected from wikipedia. Links can be found in the file `politic_meta.txt`.
-Word2Vec model is trained based on wikipedia dump (English version).
+### Train data and models
+All of the training data is collected from wikipedia. Links can be found in the file `politic_meta.txt`. Every article is hand-picked and is related to political concepts, history or economic background. Total train file size is about 3M and containes more than 6,000,000 words.
+Word2Vec model is trained based on wikipedia dump (English version). The model is about 300M, contianing nearly 40,000 distinct words.
+
+**All of the models are available in the release version.** I also provide train and test script in the format of ipython notebook.
 
 ## WARNING: Controversial content  
+I can not control what the AI learn from those article
 **Generated text may be controversial, offensive and biased. Use with your own caution.**
 
 ## Result Showcase (Web Application)
 
-<img width="1433" alt="Screen Shot 2022-02-24 at 9 37 41 PM" src="https://user-images.githubusercontent.com/63455223/155537071-5524eaf6-4bbe-43d7-8e1a-1edc0529fd37.png">
+<img width="1346" alt="Screen Shot 2022-02-24 at 10 12 37 PM" src="https://user-images.githubusercontent.com/63455223/155540838-1e5e323c-f24a-43f6-9273-f27aceb8d2d6.png">
 
 ## Usage
 <ul>
