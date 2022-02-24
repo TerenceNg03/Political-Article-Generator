@@ -1,0 +1,85 @@
+politic.txt
+	https://en.wikipedia.org/wiki/Anarchism
+	https://en.wikipedia.org/wiki/Anti-capitalism
+	https://en.wikipedia.org/wiki/Capitalism
+politic1.txt
+	https://en.wikipedia.org/wiki/Communism
+	https://en.wikipedia.org/wiki/Criticism_of_Marxism
+	https://en.wikipedia.org/wiki/Socialism
+politic2.txt
+	https://en.wikipedia.org/wiki/Welfare_capitalism
+	https://en.wikipedia.org/wiki/State_capitalism
+	https://en.wikipedia.org/wiki/Market_economy
+	https://en.wikipedia.org/wiki/Market_socialism
+politic3.txt
+	https://en.wikipedia.org/wiki/Mercantilism
+	https://en.wikipedia.org/wiki/Nazism
+	https://en.wikipedia.org/wiki/Neo-Nazism
+politic4.txt
+	https://en.wikipedia.org/wiki/Stalinism
+	https://en.wikipedia.org/wiki/Pacifism
+	https://en.wikipedia.org/wiki/Liberalism
+politic5.txt
+	https://en.wikipedia.org/wiki/Anarcho-capitalism
+	https://en.wikipedia.org/wiki/Marxism
+	https://en.wikipedia.org/wiki/Libertarian_socialism
+politic6.txt
+	https://en.wikipedia.org/wiki/Anarcho-syndicalism
+	https://en.wikipedia.org/wiki/Syndicalism
+	https://en.wikipedia.org/wiki/Mutualism_(economic_theory)
+politic7.txt
+	https://en.wikipedia.org/wiki/Social_anarchism
+	https://en.wikipedia.org/wiki/Conservatism
+	https://en.wikipedia.org/wiki/Nationalism
+politic8.txt
+	https://en.wikipedia.org/wiki/Feminism
+	https://en.wikipedia.org/wiki/Democracy
+	https://en.wikipedia.org/wiki/Liberal_democracy
+politic9.txt
+	https://en.wikipedia.org/wiki/Economic_planning
+	https://en.wikipedia.org/wiki/Globalization
+	https://en.wikipedia.org/wiki/Environmentalism
+politic10.txt
+	https://en.wikipedia.org/wiki/Colonialism
+	https://en.wikipedia.org/wiki/Industrial_Revolution
+	https://en.wikipedia.org/wiki/Ideology
+politic11.txt
+	https://en.wikipedia.org/wiki/Ideology_of_the_Communist_Party_of_the_Soviet_Union
+	https://en.wikipedia.org/wiki/Ideology_of_the_Chinese_Communist_Party
+	https://en.wikipedia.org/wiki/Maoism
+politic12.txt:
+	https://en.wikipedia.org/wiki/Imperialism
+	https://en.wikipedia.org/wiki/Monarchy
+	https://en.wikipedia.org/wiki/Theocracy
+politic13.txt:
+	https://en.wikipedia.org/wiki/Cold_War
+	https://en.wikipedia.org/wiki/Soviet_Union
+	https://en.wikipedia.org/wiki/World_War_II
+politic14.txt:
+	https://en.wikipedia.org/wiki/Anti-communism
+	https://en.wikipedia.org/wiki/Libertarianism
+	https://en.wikipedia.org/wiki/Nazi_Germany
+politic15.txt:
+	https://en.wikipedia.org/wiki/Authoritarianism
+	https://en.wikipedia.org/wiki/Dictatorship
+	https://en.wikipedia.org/wiki/Empire_of_Japan
+politic16.txt:
+	https://en.wikipedia.org/wiki/First_World
+	https://en.wikipedia.org/wiki/United_States
+	https://en.wikipedia.org/wiki/Democratization
+	https://en.wikipedia.org/wiki/Libertarianism_in_the_United_States
+politic17.txt:
+	https://en.wikipedia.org/wiki/Rule_of_law
+	https://en.wikipedia.org/wiki/Anarchy
+	https://en.wikipedia.org/wiki/Republic
+	https://en.wikipedia.org/wiki/Republicanism
+politic18.txt:
+	https://en.wikipedia.org/wiki/State_socialism
+	https://en.wikipedia.org/wiki/Neoliberalism
+	https://en.wikipedia.org/wiki/Protectionism
+	https://en.wikipedia.org/wiki/Free_trade
+politic19.txt:
+	https://en.wikipedia.org/wiki/Radical_centrism
+	https://en.wikipedia.org/wiki/Centrism
+	https://en.wikipedia.org/wiki/Developing_country
+	https://en.wikipedia.org/wiki/United_Nations
